@@ -27,7 +27,7 @@
               "src/styles.css"
             ],
             "scripts": [
-              "Bootstrap/bootstrap-4.4.1-dist/css/bootstrap.min."
+              "Bootstrap/bootstrap-4.4.1-dist/css/bootstrap.min.js"
             ]
           },
           "configurations": {
