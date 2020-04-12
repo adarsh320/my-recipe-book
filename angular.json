@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "Bootstrap/bootstrap-4.4.1-dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
